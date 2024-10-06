@@ -6,7 +6,7 @@
   ```
   - Captura:
 
-<img src="./Capturas/Cap1.png.png" alt="drawing" width="500"/>
+<img src="./Capturas/Cap1.png" alt="drawing" width="500"/>
 
 ## 2. Tipos de Datos
   - Concepto:
@@ -33,7 +33,7 @@
   ```
   - Captura:
 
-<img src="./Capturas/Cap4.png.png" alt="drawing" width="500"/>
+<img src="./Capturas/Cap4.png" alt="drawing" width="500"/>
 
 ## 3.1. when: Alternativa a switch en otros lenguajes.
   - Concepto:
@@ -51,7 +51,7 @@
   ```
   - Captura:
 
-<img src="./Capturas/Cap6.png.png" alt="drawing" width="500"/>
+<img src="./Capturas/Cap6.png" alt="drawing" width="500"/>
 
 ## 4.1. Bucles (while y do while)
   - Concepto:
@@ -60,7 +60,7 @@
   ```
   - Captura:
 
-<img src="./Capturas/Cap7.png.png" alt="drawing" width="500"/>
+<img src="./Capturas/Cap7.png" alt="drawing" width="500"/>
 
 ## 5. Funciones
   - Concepto:
@@ -69,11 +69,11 @@
   ```
   - Captura de declaracion de funcion y uso de funcion:
 
-<img src="./Capturas/Cap8.png.png" alt="drawing" width="500"/>
+<img src="./Capturas/Cap8.png" alt="drawing" width="500"/>
 
 - Captura uso de funcion con valores por defecto:
 
-<img src="./Capturas/Cap9.png.png" alt="drawing" width="500"/>
+<img src="./Capturas/Cap9.png" alt="drawing" width="500"/>
 
 ## 6. Null Satefy
   - Concepto:
@@ -84,4 +84,4 @@
 
   - Captura:
 
-<img src="./Capturas/Cap10.png.png" alt="drawing" width="500"/>
+<img src="./Capturas/Cap10.png" alt="drawing" width="500"/>
